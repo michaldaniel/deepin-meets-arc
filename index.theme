@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=DeepinMeetsArc
+Comment=default GTK theme for Deepin that fell in love with Arc
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=DeepinMeetsArc
+MetacityTheme=DeepinMeetsArc
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
