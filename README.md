@@ -11,7 +11,9 @@ You end up with beautiful flat GTK theme with transparent elements for GTK 3, GT
 
 ## Preview
 
-(soon)
+![white-header](https://user-images.githubusercontent.com/1345297/31470680-4fbfec54-aee5-11e7-89bd-7c3ad210937f.png)
+![black-header](https://user-images.githubusercontent.com/1345297/31470673-498639ce-aee5-11e7-93e2-8d88095319b8.png)
+![screenshot-shell](https://user-images.githubusercontent.com/1345297/31470674-49a18bd4-aee5-11e7-92ce-2a3809999de8.png)
 
 ## Installation
 
