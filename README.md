@@ -1,7 +1,7 @@
 # DeepinMeetsArc
 ## What is DeepinMeetsArc?
 
-[Deepin GTK theme](https://cr.deepin.io/#/admin/projects/deepin-gtk-theme) for GNOME that fell in love with [Arc theme](https://github.com/horst3180/arc-theme). For the most part it's Deepin theme look, but with Arc accent colours, window buttons, and wiget styles for radio buttons, switches and many other.
+[Deepin GTK theme](https://cr.deepin.io/#/admin/projects/deepin-gtk-theme) for GNOME fell in love with [Arc theme](https://github.com/horst3180/arc-theme) and they had a baby. For the most part it's Deepin theme look, but with Arc accent colours, window buttons, and wiget styles for radio buttons, switches and many other.
 
 This theme is mostly a mash up of those two themes, credits go to the authors or Deepin and Arc GTK themes.
 
